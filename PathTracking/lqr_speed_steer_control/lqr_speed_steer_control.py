@@ -2,7 +2,7 @@
 
 Path tracking simulation with LQR speed and steering control
 
-author Atsushi Sakai (@Atsushi_twi)
+authorjzndd
 
 """
 import sys
