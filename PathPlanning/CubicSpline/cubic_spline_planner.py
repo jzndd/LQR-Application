@@ -1,7 +1,7 @@
 """
 Cubic spline planner
 
-Author: Atsushi Sakai(@Atsushi_twi)
+Author: jzndd
 
 """
 import math
