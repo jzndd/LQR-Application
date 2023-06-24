@@ -24,9 +24,13 @@
   + lqr_speed_steer_control 给出了速度-路径跟踪
 
 
-代码参考：
-https://github.com/zhm-real/MotionPlanning
-https://github.com/mingyucai/LQR_CBF_rrtStar
-https://zhuanlan.zhihu.com/p/504299366
+代码参考：  
+
+https://github.com/zhm-real/MotionPlanning  
+
+https://github.com/mingyucai/LQR_CBF_rrtStar  
+
+https://zhuanlan.zhihu.com/p/504299366  
+
 https://github.com/WenchaoDing/PythonRobotics
    
